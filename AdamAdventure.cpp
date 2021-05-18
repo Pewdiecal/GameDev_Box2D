@@ -1,10 +1,6 @@
 /********************************************
-Course : TGD2251 Game Physics
-Session: Trimester 2, 2020/21
-ID and Name #1 : 1171103388 LAU YEE KEEN CALVIN
-Contacts #1 : 0108116957 1171103388@student.mmu.edu.my
-ID and Name #2 : 1171103741 CHAN JIN XUAN
-Contacts #2 : 0122031089 1171103741@student.mmu.edu.my
+Author #1 : LAU YEE KEEN CALVIN (Programmer)
+Author #2 : CHAN JIN XUAN (Graphics Design)
 ********************************************/
 #include <box2d.h>
 #include <cstdio>
